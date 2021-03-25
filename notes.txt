@@ -1,4 +1,0 @@
-SQL data: 500 inserts
-Neo4j data: 100 Node Creates, 515 Releationships
-
-Neo4j has 'creates' and 'has relationships as to SQL's foreign keys
